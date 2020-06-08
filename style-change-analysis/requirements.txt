@@ -1,0 +1,2 @@
+scikit-learn==0.18
+stanza==0.3
